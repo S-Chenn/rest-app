@@ -1,0 +1,37 @@
+.copyright {
+  color: #999999;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar {
+  background-color: #FFF07F;
+  color: #333;
+  font-weight: 400;
+}
+
+.avator {
+  background: center/cover #aa6699;
+  box-shadow: initial;
+}
+
+.footer {
+  padding: 16px;
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+
+  small {
+    margin: 0;
+  }
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.container {
+  max-width: 1300px;
+  padding: 0 32px;
+}
