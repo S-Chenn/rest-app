@@ -1,0 +1,16 @@
+.menu-wrap {
+  display: flex;
+  margin-bottom: 5vw;
+
+  @include pc(){
+
+  }
+
+  &:last-child {
+    margin: 0;
+  }
+}
+
+.menu-card {
+
+}
